@@ -1,6 +1,6 @@
 [rsschool-cv](https://nikolay16031982.github.io/rsschool-cv/cv)
 # Nikolay Kuzmichev
-<img src="./photo.jpg" width="100px" alt="My photo"/>
+<img src="./my_photo.jpeg" width="100px" alt="My photo"/>
 
 ## Personal data
 * Born on March 16, 1982 in the city of Slutsk
@@ -24,3 +24,12 @@ In my work I actively use such tools as the C++ programming language, the MathCa
   return tempArr.join("");
 }
 ```
+## work experience
+I have extensive experience in modeling radar stations in C ++ while serving in the Armed Forces of the Republic of Belarus. I have experience in developing digital devices based on microcontrollers designed to interface with a digital computer of BUK air defense systems in C ++.
+## Education
+1. 1988-1997 Secondary school number 10 of the city of Slutsk.
+2. 1997-1999 Secondary school number 5 of the city of Slutsk.
+3. 1999-2004 Faculty of Air Defense Educational Institution "VA RB".
+4. 2013-2015 Command and staff faculty of the educational institution "VA RB".
+5. 2016-2017 Full-time adjuncture of the educational institution "VARB" in the specialty of radar and radio navigation.
+6.I am currently studying Java Script and Node JS at RS Scool.
